@@ -16,6 +16,7 @@ default = ["bus", "journal"]
 
 bus = []
 journal = []
+static = []
 
 [dependencies]
 libc = "0.2.76"
